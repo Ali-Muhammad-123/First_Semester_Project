@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577946030 source:c:\users\hp\desktop\project fop lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577946030 source:d:\university\project fop lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
